@@ -5,7 +5,8 @@ I am a student
 --------------
 
 *   🌍  I'm based in Nakhon Si Thammarat ( Thailand )
-*   ✉️  You can contact me at [poomtanapon2.7.44@gmail.com](mailto:poomtanapon2.7.44@gmail.com)### Skills
+*   ✉️  You can contact me at [poomtanapon2.7.44@gmail.com](mailto:poomtanapon2.7.44@gmail.com)
+*    Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
