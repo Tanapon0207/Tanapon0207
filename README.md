@@ -36,6 +36,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
 
 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vute-colored.svg" width="36" height="36" alt="Vute" />
+
+
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
 
