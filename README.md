@@ -100,8 +100,6 @@ I enjoy developing systems such as:
 
 ## 📊 GitHub Stats
 
-<## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanapon0207&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
 </p>
@@ -110,7 +108,7 @@ I enjoy developing systems such as:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanapon0207&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
 
----
+
 
 
 
