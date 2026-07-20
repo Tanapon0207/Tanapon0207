@@ -100,9 +100,8 @@ I enjoy developing systems such as:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanapon0207&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanapon0207&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanapon0207&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanapon0207&layout=compact)
 
 
 
